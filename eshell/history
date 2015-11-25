@@ -1,0 +1,12 @@
+ls
+cd sandbox/test/hello/
+ls
+make helloc
+./helloc
+rm helloc
+make helloc
+ls
+./helloc
+rm helloc
+exit
+stoken
