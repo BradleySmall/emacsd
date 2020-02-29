@@ -3,3 +3,8 @@ session.1010a9ea0a4000142126951800000008710038
 .emacs.desktop
 .emacs.desktop.lock
 tramp
+"#!*#"
+session.*
+auto-save-list
+network-security.data
+transient/

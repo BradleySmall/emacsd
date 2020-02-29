@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "evil-ex-shell-command" "20181226.226" "invoke shell-command right from evil-ex" '((emacs "24.4") (evil "1.1.0")) :commit "a6ca6d27c07f6a0807abfb5b8f8865f1d17f54aa" :keywords '("tools" "shell-command" "evil") :authors '(("Rashawn Zhang" . "namy.19@gmail.com")) :maintainer '("Rashawn Zhang" . "namy.19@gmail.com") :url "https://github.com/yqrashawn/evil-ex-shell-command")
